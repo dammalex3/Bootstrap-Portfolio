@@ -1,0 +1,106 @@
+body {
+    background-image: url("../images/qbkls.png");
+}
+
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-light {
+    background-color: white;
+}
+
+.name-box {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    height: 100%;
+}
+
+.content-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.main-content {
+    background-color: white;
+    border: 1px solid #dddddd;
+    padding-top: 10px;
+}
+
+.content-header {
+    background-color: white;
+    border: 1px solid #dddddd;
+    border-bottom: 2px solid #cccccc;
+}
+
+.content-title {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #4aaaa5;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+#bio-pic {
+    margin-right: 10px;
+    width: 150px;
+    height: 200px;
+}
+
+p {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.nav-header-text {
+    padding-top: 25px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+}
+
+#footer-format {
+    background-color: #666666;
+    border-top: 3px solid #4aaaa5;
+}
+
+#footer-text {
+    color: white;
+    font-size: 10pt;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#submit-button {
+    background-color: #4aaaa5;
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.image-label {
+    position: absolute;
+    bottom: 30px;
+    background-color: #4aaaa5;
+    color: white;
+    height: 25px;
+    width: 350px;
+    font-size: 16px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+}
+
+.img-thumbnail {
+    border: none;
+    padding: 0px;
+    margin-bottom: 20px;
+}
